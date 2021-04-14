@@ -1,0 +1,32 @@
+module Comp (
+	input iClk,
+	input iRst,
+	input [7:0]mem_value,
+	input [7:0]iSW,
+	output [4:0]oOccurrences
+);
+
+
+reg [4:0]rDuplicates_D;
+reg [4:0]rDuplicates_Q;
+
+assign oOccurrences = rDuplicates_Q;
+
+always @ (posedge iClk)
+begin
+	rDuplicates_Q <= rDuplicates_D;
+end
+
+always @ *
+begin
+	if (iSW == mem_value)
+	begin
+	rDuplicates_D = rDuplicates_Q + 5'd1;
+		if (iRst)
+		begin
+		rDuplicates_D = 5'd0;
+		end
+	end
+end
+
+endmodule

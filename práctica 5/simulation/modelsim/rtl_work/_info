@@ -1,0 +1,110 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Quartus/intelFPGA_lite/practice 5/simulation/modelsim
+vBCD
+Z1 !s110 1616133306
+!i10b 1
+!s100 JR8LfDc:fNn=8dD5BRZBH2
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IlUkjBoW4F<Vhge^Am1YMY1
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1616131630
+8D:/Quartus/intelFPGA_lite/practice 5/BCD.v
+FD:/Quartus/intelFPGA_lite/practice 5/BCD.v
+!i122 1
+L0 1 36
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1616133306.000000
+!s107 D:/Quartus/intelFPGA_lite/practice 5/BCD.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Quartus/intelFPGA_lite/practice 5|D:/Quartus/intelFPGA_lite/practice 5/BCD.v|
+!i113 1
+Z6 o-vlog01compat -work work
+Z7 !s92 -vlog01compat -work work {+incdir+D:/Quartus/intelFPGA_lite/practice 5}
+Z8 tCvgOpt 0
+n@b@c@d
+vComp
+R1
+!i10b 1
+!s100 i?YWOJV^l[:H]j@OH[QK33
+R2
+IR2zO4WEm>Sj=[^ogd9j5P3
+R3
+R0
+w1616133231
+8D:/Quartus/intelFPGA_lite/practice 5/Comp.v
+FD:/Quartus/intelFPGA_lite/practice 5/Comp.v
+!i122 0
+L0 1 48
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/Quartus/intelFPGA_lite/practice 5/Comp.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Quartus/intelFPGA_lite/practice 5|D:/Quartus/intelFPGA_lite/practice 5/Comp.v|
+!i113 1
+R6
+R7
+R8
+n@comp
+vMemorias
+R1
+!i10b 1
+!s100 a:CBSF76W@Mc396dZ1AW70
+R2
+I:OTMS;@o5eZF0NWJ2CoLi1
+R3
+R0
+w1616028815
+8D:/Quartus/intelFPGA_lite/practice 5/Memorias.v
+FD:/Quartus/intelFPGA_lite/practice 5/Memorias.v
+!i122 3
+L0 1 33
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/Quartus/intelFPGA_lite/practice 5/Memorias.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Quartus/intelFPGA_lite/practice 5|D:/Quartus/intelFPGA_lite/practice 5/Memorias.v|
+!i113 1
+R6
+R7
+R8
+n@memorias
+vpractice5
+R1
+!i10b 1
+!s100 5R:KnizP]>mzSjhUAYakT0
+R2
+I;><a7n4bUT_5TN`den7?Q1
+R3
+R0
+w1616133103
+8D:/Quartus/intelFPGA_lite/practice 5/practice5.v
+FD:/Quartus/intelFPGA_lite/practice 5/practice5.v
+!i122 2
+L0 1 40
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/Quartus/intelFPGA_lite/practice 5/practice5.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/Quartus/intelFPGA_lite/practice 5|D:/Quartus/intelFPGA_lite/practice 5/practice5.v|
+!i113 1
+R6
+R7
+R8

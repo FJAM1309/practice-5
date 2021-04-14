@@ -1,0 +1,105 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "oS1[0]",
+					"strict" : false
+				},
+				{
+					"name" : "oS1[1]",
+					"strict" : false
+				},
+				{
+					"name" : "oS1[2]",
+					"strict" : false
+				},
+				{
+					"name" : "oS1[3]",
+					"strict" : false
+				},
+				{
+					"name" : "oS1[4]",
+					"strict" : false
+				},
+				{
+					"name" : "oS1[5]",
+					"strict" : false
+				},
+				{
+					"name" : "oS1[6]",
+					"strict" : false
+				},
+				{
+					"name" : "oS2[0]",
+					"strict" : false
+				},
+				{
+					"name" : "oS2[1]",
+					"strict" : false
+				},
+				{
+					"name" : "oS2[2]",
+					"strict" : false
+				},
+				{
+					"name" : "oS2[3]",
+					"strict" : false
+				},
+				{
+					"name" : "oS2[4]",
+					"strict" : false
+				},
+				{
+					"name" : "oS2[5]",
+					"strict" : false
+				},
+				{
+					"name" : "oS2[6]",
+					"strict" : false
+				},
+				{
+					"name" : "iClk",
+					"strict" : false
+				},
+				{
+					"name" : "iSW[0]",
+					"strict" : false
+				},
+				{
+					"name" : "iSW[1]",
+					"strict" : false
+				},
+				{
+					"name" : "iSW[2]",
+					"strict" : false
+				},
+				{
+					"name" : "iSW[3]",
+					"strict" : false
+				},
+				{
+					"name" : "iSW[4]",
+					"strict" : false
+				},
+				{
+					"name" : "iSW[5]",
+					"strict" : false
+				},
+				{
+					"name" : "iSW[6]",
+					"strict" : false
+				},
+				{
+					"name" : "iSW[7]",
+					"strict" : false
+				},
+				{
+					"name" : "iRst",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

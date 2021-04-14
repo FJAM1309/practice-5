@@ -1,0 +1,2 @@
+Info (10281): Verilog HDL Declaration information at practice5.v(10): object "unidades" differs only in case from object "Unidades" in the same scope File: D:/Quartus/intelFPGA_lite/practice 5/practice5.v Line: 10
+Info (10281): Verilog HDL Declaration information at practice5.v(11): object "decenas" differs only in case from object "Decenas" in the same scope File: D:/Quartus/intelFPGA_lite/practice 5/practice5.v Line: 11
